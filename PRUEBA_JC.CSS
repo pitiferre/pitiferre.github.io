@@ -1,0 +1,12 @@
+.thumbnail {height: 270px;
+}
+
+.thumbnail img{
+
+	height: 100px
+}
+.articulos {
+	width: 100%;
+	padding-left: 100px;
+	padding-right:100px;
+}
